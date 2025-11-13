@@ -43,6 +43,6 @@ This repository contains my **practice codes and projects** related to **Data An
 This repository is created to **learn and practice data analytics concepts** and to build a strong foundation in **data analysis & visualization**.
 
 ---
-
+## Contact
 📌 *Author: Suraj Kumar*
-🔗 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/) | [GitHub](https://github.com/surajpathak23)
+🔗 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/) | [GitHub](https://github.com/surajpathak23) | [WhatsApp](https://wa.me/919142496994)
